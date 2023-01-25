@@ -12,8 +12,8 @@ let team = {
   yuki: {
     name: 'Yuki-ki Ngai',
     role: 'Project Manager',
-    descrip: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    pic: 'mock.png'
+    descrip: 'I am Yuki, a passionate multimedia designer to apply psychology knowledge into design and marketing. From designing, it also brings me more and extend my interest in motion design and coding as well. I want our production to be strategically deliver a message constantly that audiences are received by whatever our solutions are, such as by visuals, videos or contents. Eventually, call to action for the problem. This project is a good opportunity to show our skillsets and apply my knowledge to the content creation and project management.',
+    pic: 'yuki.jpg'
   },
 
   eugene: {
