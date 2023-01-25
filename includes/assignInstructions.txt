@@ -1,0 +1,35 @@
+Assignment Description
+This is a small team assignment based on your FIP roles. Choose one team member
+to “own” the project with a Github repo.
+Create a Team Bio App based on your partners for the Integrated Project. You’ll have some
+standard team copy on the page initially (written by you); use routes with Express to display a
+page for each team member.
+Please note - this will NOT be a shared grade. Each team member will receive a grade based
+on their individual contributions to the project.
+In other words - failure to contribute a bio page using git (branch, commits, pull request and
+merge) will result in a 0 for that team member.
+.
+.
+.
+.
+Assignment Requirements
+Design a team bio page. Creatively how this looks and feels is entirely up to you. Please note
+that this can be used as an intro for your presentations if you choose; however the focus of the
+assignment is using routes with Node and Express. Minimal (but still well-done) design is
+acceptable.
+Use routes with Node and Express to display one page for each team member. The content can
+be static - no database, Vue or front-end JavaScript required. You’ll need to agree on a layout
+and navigation controls.
+Create a theme or template each team member can use to populate with their content. Each
+team member is responsible for populating this template as their own page IE john.html,
+joe.html, nick.html. You’ll be using routing to display the individual bio content on a click /
+loading that person’s page.
+.
+.
+.
+.
+Submission
+Homework must be submitted by midnight on the Saturday of Week 4 (Jan 28)
+- Github repo/link: readme.md file, main branch, design branch(es) and
+development branch(es)
+- correct structure for a Node web project
