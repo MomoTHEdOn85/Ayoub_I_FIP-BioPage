@@ -1,6 +1,6 @@
 
 <h2 align="center">FIP Team Page<h2>
-<h5 align="center">Routing with Node and Express</h5>
+<h4 align="center">Routing with Node and Express</h4>
 <br>
 <h4 align="center">
   This is a small team based assignment based on our FIP campign roles, in which we have to design a team bio page using routes with Node and Express. 
@@ -35,7 +35,7 @@
 
 This web app or Team Page is created using routes with Node and Express to display one page for each team member. The content is   static, this means that there is no database and Vue. Click on the role link at the bottom of the member's images and view their full descriptions. 
 
-Enjoy!! (>‿◠)✌
+Enjoy our app!! (>‿◠)✌
 
 
 ## :hammer: Technologies
@@ -63,7 +63,6 @@ To run this web app, you will need to have:
  - run the 'start npm' into your bash terminal or in any code editor
 
 
-Enjoy!
 
 ## Credits
 - Immama Ayoub
