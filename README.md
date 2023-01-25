@@ -1,7 +1,7 @@
 
 <h2 align="center">FIP Team Page<h2>
 <h5 align="center">Routing with Node and Express</h5>
-<br><br>
+<br>
 <h4 align="center">
   This is a small team based assignment based on our FIP campign roles, in which we have to design a team bio page using routes with Node and Express. 
 </h4>
@@ -17,7 +17,7 @@
 
 ----
 
-## Design and Documentation 
+## Design
  - Team Page Design https://docs.google.com/document/d/1nMxuWLbLiwlyPIeRVToQJMsPbZi6qvnNflz3PZaxm-0/edit?usp=sharing
  
 
