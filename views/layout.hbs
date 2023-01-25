@@ -4,7 +4,48 @@
     <title>{{title}}</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
-  <body>
+  <body> 
+     
+    <ul class="tlinks">
+      
+      <li class="linkC">
+        <img src="/images/user.jpg" alt="{{person.name}}'s names">
+        <a onclick="clickLink" href="/team/yuki">
+        <p class="title-card">Project Manager</p></a>
+         
+      </li>
+      <li class="linkC">
+        <img src="/images/immama.jpg" alt="{{person.name}}'s names" class="imma">
+        <a onclick="clickLink" href="/team/immama">
+        <p class="title-card">Front-End Dev</p></a>
+        </li>
+         
+      <li class="linkC">
+        <img src="/images/user.jpg" alt="{{person.name}}'s names"> 
+        <a onclick="clickLink" href="/team/eugene">
+        <p class="title-card">Back-End Dev</p></a>
+        </li>
+      <li class="linkC">
+        <img src="/images/user.jpg" alt="{{person.name}}'s names">
+        <a onclick="clickLink" href="/team/cathy">
+        <p class="title-card">Graphic Designer</p></a></li>
+         
+      <li class="linkC">
+        <img src="/images/user.jpg" alt="{{person.name}}'s names"> 
+        <a onclick="clickLink" href="/team/sahar">
+        <p class="title-card">3D/Motion Artist</p></a>
+      </li>
+         
+    </ul>
+
+     
+ 
+
+
+
     {{{body}}}
+
+    <script src="javascripts/main.js" type="module" defer></script>
+
   </body>
 </html>
