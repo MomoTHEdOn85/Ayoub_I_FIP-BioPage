@@ -5,7 +5,7 @@ let team = {
   immama: {
     name: 'Immama Ayoub',
     role: 'Front-End Web Developer',
-    descrip: 'Hi, My name is immama AND iAM THE Front-End Web Developer for the campaign and its website. etc etc etc etc etc etc etc etc. Here is the link to my portfolio, feel free to see it.',
+    descrip: 'Hi. I am Immama. As you might have seen from the above heading, I am the Front-End Web Developer of this campaign. As a Front-End developer,it is my duty to understand clients problems, designing a human-centered design for them, prototype it and help in coding it. With experise in HTML, CSS and JavaScript, I strive to give our clients the results and solutions they always have wished for. Graduating at Fanshawe College with advanced diploma in Interactive Media Design, I always wished to work for a company that values peoples dreamms, emotions and help them build it(in this case websites, marketing solutions).',
     pic: 'immama.jpg'
   },
 
