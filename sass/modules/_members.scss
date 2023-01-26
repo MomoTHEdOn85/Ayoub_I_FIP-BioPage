@@ -5,8 +5,8 @@
   background: $cardTwoBack;
   margin: 1em;
   padding: 3em;
-  border: 4px solid $border;
-  
+  border: 2px solid $border;
+  border-radius: 1em;
   
   .two-items {
      
@@ -31,6 +31,8 @@
       h2 {
         font-size: 2em;
         text-align: center;
+        background-color: #000;
+        color: #fff;
       }
       h3 { 
         text-align: center;
@@ -53,8 +55,8 @@
 
   h2,h3,h4 {
     margin: 0.5em;
-    border: 4px solid $border;
-    border-radius: 1em;
+    border: 2px solid $border;
+    border-radius: 0.5em;
     padding: 0.5em;
   }
 
@@ -73,12 +75,13 @@ button {
    
  
   border: 2px solid $border;
+  border-radius: 0.5em;
    
 
   a {
     background-color: $cardHover;
     color: $border;
-    padding: 0.5em;
+    padding: 0.3em 0.5em;
     font-family: $font;
     text-decoration: none;
 
