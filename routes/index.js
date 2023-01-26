@@ -22,8 +22,8 @@ let team = {
     name: "Hyeongtae Kim (Eugene)",
     role: "Back-End Web Developer",
     descrip:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    pic: "mock.png",
+      "Interactive digital media designer with a marketing design background in graphic design, banner ads, and marketing campaign ads, as well as overseas tradeshow planning. I am passionate about working as a marketing designer and web developer with assets in 3D design and motion design in order to execute total brand marketing that involves creating value for brand users experiencing both on and offline.",
+    pic: "eugene.png",
   },
 
   cathy: {
