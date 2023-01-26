@@ -38,8 +38,8 @@ let team = {
     name: "Sahar Motlagh",
     role: "Motion/3D Artist",
     descrip:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    pic: "mock.png",
+      "I’m a Multimedia Designer who can translate ideas into innovative and crafted designs. I’ve worked as a Graphic and Motion Designer for 4 years. Also my study background in visual design helps me to be more creative in design. I've Experienced as a UX and UI designer who created several brands from the ground up. I implement my knowledge in Adobe Creative Suite; Photoshop, Illustrator, InDesign, Aftereffect XD and Cinema 4D to design.",
+    pic: "sahar.png",
   },
 };
 
