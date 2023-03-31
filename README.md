@@ -1,7 +1,6 @@
 
 ## <h2 align="center">FIP Team Page<h2>
 <h4 align="center">Routing with Node and Express</h4>
-<br>
 <h4 align="center">
   This is a small team based assignment based on our FIP campign roles, in which we have to design a team bio page using routes with Node and Express. 
 </h4>
@@ -19,26 +18,16 @@
 
 ## Design
  - Team Page Design https://docs.google.com/document/d/1nMxuWLbLiwlyPIeRVToQJMsPbZi6qvnNflz3PZaxm-0/edit?usp=sharing
- 
-
-<p align="center">
-  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Technologies</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#books-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-  <a href="#rocket-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  
-</p>
 
 
-## :page_with_curl: About
+## About
 
 This web app or Team Page is created using routes with Node and Express to display one page for each team member. The content is   static, this means that there is no database and Vue. Click on the role link at the bottom of the member's images and view their full descriptions. 
 
 Enjoy our app!! (>‿◠)✌
 
 
-## :hammer: Technologies
+## Technologies
 This web app was built using
 - HTML/CSS
 - JavaScript
@@ -47,7 +36,7 @@ This web app was built using
 - SASS
 
 
-## :rocket: Usage
+## Usage
 
 To run this web app, you will need to have:
 
